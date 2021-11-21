@@ -1,5 +1,3 @@
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-
 class Values {
   static const String name = "Ali Solanki";
   static const String description = "Lad with a million dreams 💎";
