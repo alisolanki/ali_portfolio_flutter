@@ -4,7 +4,19 @@ Flutter Linktree Alternative
 
 ![Flutter Linktree Alternative](https://github.com/alisolanki/ali_portfolio_flutter/blob/main/images/screenshot.png)
 
+![Live Website](https://alisolanki.com)
+
 ## Getting Started
+
+- To use this project:
+
+```sh
+git clone https://github.com/alisolanki/ali_portfolio_flutter.git
+cd ali_portfolio_flutter
+flutter run
+```
+
+- Don't forget to change values.dart file
 
 This project is a starting point for a Flutter application.
 
@@ -17,4 +29,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# ali_portfolio_flutter
+# Ali Linktree Alternative Flutter App
