@@ -1,6 +1,8 @@
-# ali_portfolio_flutter
+# Ali Solanki Linktree Alternative
 
-A new Flutter project.
+Flutter Linktree Alternative
+
+![Flutter Linktree Alternative](https://github.com/alisolanki/ali_portfolio_flutter/tree/main/images/screenshot.png)
 
 ## Getting Started
 
@@ -14,4 +16,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 # ali_portfolio_flutter
