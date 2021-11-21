@@ -11,6 +11,7 @@ class Values {
 
   static const Map<String, String> links = {
     'YouTube 🔴': "https://appopener.com/yt/jouwp3g7f",
+    'Instagram 🦄': "https://appopener.com/ig/45rsyczsn",
     'Twitter 🔵': "https://appopener.com/web/rn3ju4s3y",
     'Consultation Booking (Crypto) 🗣': "https://appopener.com/web/pw5mqd3d1",
     'Student Samaj Community (Telegram) 🌐': "https://t.me/studentsamaj",
