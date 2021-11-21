@@ -2,7 +2,7 @@
 
 Flutter Linktree Alternative
 
-![Flutter Linktree Alternative](https://github.com/alisolanki/ali_portfolio_flutter/tree/main/images/screenshot.png)
+![Flutter Linktree Alternative](https://github.com/alisolanki/ali_portfolio_flutter/blob/main/images/screenshot.png)
 
 ## Getting Started
 
