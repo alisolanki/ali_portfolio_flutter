@@ -99,6 +99,19 @@ class HomePage extends StatelessWidget {
                 onTap: () => _launchURL('https://alisolanki.com'),
               ),
             ),
+            Padding(
+              padding: const EdgeInsets.only(bottom: 32.0),
+              child: InkWell(
+                child: const Text(
+                  'Github Repository of this website',
+                  style: TextStyle(
+                    decorationStyle: TextDecorationStyle.solid,
+                  ),
+                ),
+                onTap: () => _launchURL(
+                    'https://github.com/alisolanki/ali_portfolio_flutter'),
+              ),
+            ),
           ],
         ),
       ),
