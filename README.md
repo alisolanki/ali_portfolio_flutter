@@ -2,9 +2,9 @@
 
 Flutter Linktree Alternative
 
-![Flutter Linktree Alternative](https://github.com/alisolanki/ali_portfolio_flutter/blob/main/images/screenshot.png)
+- [Live Website](https://alisolanki.com)
 
-![Live Website](https://alisolanki.com)
+![Flutter Linktree Alternative](https://github.com/alisolanki/ali_portfolio_flutter/blob/main/images/screenshot.png)
 
 ## Getting Started
 
