@@ -8,6 +8,7 @@ class HomePage extends StatelessWidget {
   HomePage({Key? key}) : super(key: key);
 
   static void _launchURL(String _url) async {
+    print(_url);
     await canLaunch(_url) ? await launch(_url) : throw 'Could not launch $_url';
   }
 
@@ -36,7 +37,7 @@ class HomePage extends StatelessWidget {
               primary: Colors.white,
               fixedSize: const Size(550, 50),
             ),
-            onPressed: () => _launchURL(Values.links.keys.toList()[i]),
+            onPressed: () => _launchURL(Values.links.values.toList()[i]),
           ),
         ),
       );
